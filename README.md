@@ -1,1 +1,1 @@
-# Runntime-hand-gesture-detection-contour
+# Runtime-hand-gesture-detection-contour
